@@ -1,0 +1,20 @@
+{
+  "kind": "singleType",
+  "collectionName": "switch_datas",
+  "info": {
+    "singularName": "switch-data",
+    "pluralName": "switch-datas",
+    "displayName": "switchData"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "switch": {
+      "type": "boolean",
+      "default": false,
+      "required": true
+    }
+  }
+}
